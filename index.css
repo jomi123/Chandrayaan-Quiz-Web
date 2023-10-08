@@ -8,7 +8,6 @@ body{
 }
 .first-heading{
     text-align: center;
-
 }
 
 .header-section{
@@ -34,4 +33,10 @@ a{
 a:hover{
     background-color: blue;
     color: white;
+}
+
+/* qn.html page*/
+
+.qn-h2{
+    text-align: center;
 }
